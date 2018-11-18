@@ -1,6 +1,6 @@
 #Childrens Memory Card game
 
-![alt text] (images/readme.png)
+![alt tag] (images/readme.png)
 
 Tech Used: Html, Css, Vanilla Javascript
 
