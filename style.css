@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+  /* border:1px solid black; */
+  background-repeat: no-repeat;
+}
+
+  body{
+    color: #84cdfc;
+    height: 100vh;
+    background: whtie;
+    text-align: center;
+    background-image: url("images/maggie.jpg");
+  }
+
+  .card{
+    background-image: url("images/front.jpg");
+    background-size: contain;
+    height: 200px;
+    width: 18%;
+    margin: 20px 1%;
+    float: left;
+  }
